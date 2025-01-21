@@ -8,5 +8,5 @@
 ` HTML ` • `CSS` • `JavaScript` •
 
 > ## 🤝 Contato
-• [Linkedin](www.linkedin.com/in/hayra-luiza)
+• [Linkedin](https://www.linkedin.com/in/hayra-luiza/)
 
