@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.gif" alt="Animação Programaçãp: Menina mexendo no computador">
+<img src="https://camo.githubusercontent.com/fab9db58966a238d10116eb53b0a75e6d85889cc84fbb143a2203f0110d3d5b0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31362f38392f35622f31363839356232333162366461353035653265346163656630326133633166652e676966" alt="Animação Programaçãp: Menina mexendo no computador">
 
 # Sobre mim 🌻
 
