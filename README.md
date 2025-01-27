@@ -1,4 +1,4 @@
-![Animação Programação](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+<img src="https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.gif" alt="Animação Programaçãp: Menina mexendo no computador">
 
 # Sobre mim 🌻
 
