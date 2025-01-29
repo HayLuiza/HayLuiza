@@ -11,4 +11,5 @@
 
 > ## 🤝 Contato
 • [Linkedin](https://www.linkedin.com/in/hayra-luiza/)
+• [Email](hlhabade@gmail.com)
 
