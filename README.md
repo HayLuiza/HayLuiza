@@ -10,6 +10,6 @@
 ` HTML ` • `CSS` • `JavaScript` •
 
 > ## 🤝 Contato
-• [Linkedin](https://www.linkedin.com/in/hayra-luiza/)
-• [Email](hlhabade@gmail.com)
+• Linkedin: https://www.linkedin.com/in/hayra-luiza/<br>
+• Email: hlhabade@gmail.com
 
