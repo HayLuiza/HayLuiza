@@ -13,7 +13,30 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
+> ## 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=hayluiza&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayluiza&theme=radical&layout=compact&custom_title=Tecnologias&locale=pt-br" 
+  />
+<br><br><br><br><br><br><br><br>
+
+
 > ## 🤝 Contato
-• Linkedin: https://www.linkedin.com/in/hayra-luiza/<br>
-• Email: hlhabade@gmail.com
+
+<div>
+  <a href = "mailto:contatohlhabade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/hayra-luiza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
