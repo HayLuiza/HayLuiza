@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/fab9db58966a238d10116eb53b0a75e6d85889cc84fbb143a2203f0110d3d5b0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31362f38392f35622f31363839356232333162366461353035653265346163656630326133633166652e676966" alt="Animação Programaçãp: Menina mexendo no computador">
+<img src="https://camo.githubusercontent.com/fab9db58966a238d10116eb53b0a75e6d85889cc84fbb143a2203f0110d3d5b0/68747470733a2f2f692e70696e672e636f6d2f6f726967696e616c732f31362f38392f35622f31363839356232333162366461353035653265346163656630326133633166652e676966" alt="Animação Programaçãp: Menina mexendo no computador">
 
 # Sobre mim 🌻
 
@@ -14,12 +14,13 @@
 </div>
 
 ## 📊 Estatísticas
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=hayluiza&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
+
   <img 
     alt="GitHub Stats" 
     height="200" 
@@ -27,7 +28,7 @@
   />
 </div>
 
-<br clear="both">
+<br>
 
 ## 🤝 Contato
 
@@ -35,4 +36,3 @@
   <a href="mailto:contatohlhabade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/hayra-luiza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
