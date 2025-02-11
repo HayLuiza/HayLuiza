@@ -17,7 +17,7 @@
 
 
  ## 📊 Estatísticas
-<div style="display: inline_block;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -35,7 +35,7 @@
   />
 </div>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ## 🤝 Contato
 
