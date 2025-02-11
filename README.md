@@ -12,15 +12,6 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
-## 🤝 Contato  
-<p align="left">
-  <a href="mailto:contatohlhabade@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>  
-  <a href="https://www.linkedin.com/in/hayra-luiza/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
   
 ## 📊 Estatísticas  
 <p align="center">
@@ -40,5 +31,13 @@
   />
 </p>
 
+<br><br><br><br><br><br><br><br>
 
-</p>
+## 🤝 Contato  
+<p align="left">
+  <a href="mailto:contatohlhabade@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>  
+  <a href="https://www.linkedin.com/in/hayra-luiza/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
