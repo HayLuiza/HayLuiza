@@ -13,12 +13,6 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-## 📊 Estatísticas  
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=hayluiza&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayluiza&theme=radical&layout=compact&custom_title=Tecnologias&locale=pt-br" />
-</p>
-
 ## 🤝 Contato  
 <p align="left">
   <a href="mailto:contatohlhabade@gmail.com">
@@ -27,4 +21,22 @@
   <a href="https://www.linkedin.com/in/hayra-luiza/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+  
+## 📊 Estatísticas  
+<p align="center">
+  <img
+    align="left" 
+    alt="GitHub Stats"
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=hayluiza&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+  />
+  <img
+    align="left" 
+    alt="GitHub Stats"
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayluiza&theme=radical&layout=compact&custom_title=Tecnologias&locale=pt-br" 
+  />
+</p>
+
+
 </p>
