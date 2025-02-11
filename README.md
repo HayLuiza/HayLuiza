@@ -14,8 +14,7 @@
 </div>
 
 > ## 📊 Estatísticas
-
-<p>
+<div style="display: inline_block;">
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -30,11 +29,13 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayluiza&theme=radical&layout=compact&custom_title=Tecnologias&locale=pt-br" 
   />
+</div>
 
+<br><br><br><br><br><br><br><br><br><br>
 
 > ## 🤝 Contato
 
-<div>
+<div style="display: inline_block">
   <a href = "mailto:contatohlhabade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/hayra-luiza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
