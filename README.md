@@ -27,14 +27,14 @@
   <img
     align="left" 
     alt="GitHub Stats"
-    width="450"
+    width="400"
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=hayluiza&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
   <img
     align="left" 
     alt="GitHub Stats"
-    width="400"
+    width="360"
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayluiza&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
